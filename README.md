@@ -80,8 +80,4 @@ task-management-system/
 
 ## Local Storage
 
-The application uses browser's localStorage to persist tasks. Data will be saved automatically and loaded when you reopen the application.
-
-## License
-
-MIT
+The application uses the browser's localStorage to persist tasks. Data will be saved automatically and loaded when you reopen the application.
